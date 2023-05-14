@@ -215,6 +215,7 @@ public:
             }
         }
         cout << "-----------------------------" << endl;
+        cout << "number of planes serviced: " << getPlanes() << endl;
     }
     
 
